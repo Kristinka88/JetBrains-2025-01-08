@@ -1,0 +1,15 @@
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/bin/Debug/net9.0/Dorset1
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/bin/Debug/net9.0/Dorset1.deps.json
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/bin/Debug/net9.0/Dorset1.runtimeconfig.json
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/bin/Debug/net9.0/Dorset1.dll
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/bin/Debug/net9.0/Dorset1.pdb
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/obj/Debug/net9.0/Dorset1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/obj/Debug/net9.0/Dorset1.AssemblyInfoInputs.cache
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/obj/Debug/net9.0/Dorset1.AssemblyInfo.cs
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/obj/Debug/net9.0/Dorset1.csproj.CoreCompileInputs.cache
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/obj/Debug/net9.0/Dorset1.sourcelink.json
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/obj/Debug/net9.0/Dorset1.dll
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/obj/Debug/net9.0/refint/Dorset1.dll
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/obj/Debug/net9.0/Dorset1.pdb
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/obj/Debug/net9.0/Dorset1.genruntimeconfig.cache
+/Users/kristinasimovic/RiderProjects/Dorset1/Dorset1/obj/Debug/net9.0/ref/Dorset1.dll
